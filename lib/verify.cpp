@@ -1,4 +1,7 @@
 #include "verify.h"
+#include "user.h"
+#include "utils.h"
+
 #include <string>
 #include <iostream>
 #include <limits>
@@ -39,4 +42,47 @@ char verify::verifyChar(std::string text, std::string charSet)
         }
     } while (charSet.find(charInput) == std::string::npos);
     return charInput;
+}
+
+bool verify::verifyYesNo(std::string text)
+{
+    char charInput;
+    do
+    {
+        charInput = verify::verifyChar(text, "yYnN");
+    } while (charInput != 'y' && charInput != 'Y' && charInput != 'n' && charInput != 'N');
+    return charInput == 'y' || charInput == 'Y';
+}
+
+std::string verify::verifyUsername(std::string text)
+{
+    std::string userInput;
+    bool isValid = false;
+    do
+    {
+        std::cout << text;
+        std::cin >> userInput;
+
+        if (utils::trim(userInput) == "")
+        {
+            std::cout << "Username cannot be empty. " << text;
+            isValid = false;
+        }
+        else if (user::isUserExist(userInput))
+        {
+            std::cout << "Username already exists. " << text;
+            isValid = false;
+        }
+        else
+            isValid = true;
+    } while (!isValid);
+    return userInput;
+}
+
+void verify::anykey()
+{
+    std::cout << "Press any key to continue...";
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    std::cin.clear();
+    std::getchar();
 }

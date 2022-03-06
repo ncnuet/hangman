@@ -42,6 +42,25 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
-    }
+        "xutility": "cpp",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "cstdarg": "cpp",
+        "cwctype": "cpp",
+        "unordered_map": "cpp",
+        "functional": "cpp",
+        "sstream": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "numeric": "cpp"
+    },
+    "cSpell.words": [
+        "ifile",
+        "iloc",
+        "ofile",
+        "uids"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
 }
