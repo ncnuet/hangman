@@ -1,14 +1,28 @@
-CMakeFiles/Hangman.dir/main.cpp.obj: E:\GameDev\Hangman\main.cpp \
- E:\GameDev\Hangman\lib/console.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/iostream \
+CMakeFiles/Hangman.dir/lib/data.cpp.obj: E:\GameDev\Hangman\lib\data.cpp \
+ E:\GameDev\Hangman\lib\data.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/string \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ostream \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ios \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/iosfwd \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stringfwd.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/memoryfwd.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/char_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_algobase.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/functexcept.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/exception_defines.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/cpp_type_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/type_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/numeric_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_pair.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/move.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/concept_check.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/type_traits \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator_base_types.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator_base_funcs.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/debug/debug.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ptr_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/predefined_ops.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/postypes.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/cwchar \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/wchar.h \
@@ -25,41 +39,34 @@ CMakeFiles/Hangman.dir/main.cpp.obj: E:\GameDev\Hangman\main.cpp \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/swprintf.inl \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/exception \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/atomic_lockfree_defines.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/exception_ptr.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/exception_defines.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/nested_exception.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/char_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_algobase.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/functexcept.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/cpp_type_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/type_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/numeric_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_pair.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/move.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/concept_check.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/type_traits \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator_base_types.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator_base_funcs.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/debug/debug.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_iterator.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ptr_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/predefined_ops.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/cstdint \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stdint.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdint.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stddef.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stddef.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/allocator.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/new_allocator.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/new \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/exception \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/atomic_lockfree_defines.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/exception_ptr.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/nested_exception.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/localefwd.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/clocale \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/locale.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdio.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/iosfwd \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/cctype \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/ctype.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ios_base.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ostream_insert.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/cxxabi_forced.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_function.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward/binders.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/range_access.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/basic_string.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/atomicity.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/gthr.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
@@ -77,18 +84,6 @@ CMakeFiles/Hangman.dir/main.cpp.obj: E:\GameDev\Hangman\main.cpp \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/pthread_compat.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/pthread_unistd.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/locale_classes.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/string \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/allocator.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/new_allocator.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/new \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ostream_insert.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/cxxabi_forced.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_function.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward/binders.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/range_access.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/basic_string.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/initializer_list \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/string_conversions.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/cstdlib \
@@ -100,6 +95,19 @@ CMakeFiles/Hangman.dir/main.cpp.obj: E:\GameDev\Hangman\main.cpp \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/functional_hash.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/hash_bytes.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/basic_string.tcc \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/vector \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_construct.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/alloc_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/alloc_traits.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_uninitialized.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_vector.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_bvector.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/vector.tcc \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/iostream \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ostream \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ios \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ios_base.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/locale_classes.h \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/locale_classes.tcc \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/streambuf \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/streambuf.tcc \
@@ -115,11 +123,13 @@ CMakeFiles/Hangman.dir/main.cpp.obj: E:\GameDev\Hangman\main.cpp \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ostream.tcc \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/istream \
  C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/istream.tcc \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/vector \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_construct.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/alloc_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/alloc_traits.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_uninitialized.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_vector.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_bvector.h \
- C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/vector.tcc
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/fstream \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/codecvt.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/fstream.tcc \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ctime \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/time.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_timeval.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sec_api/time_s.h \
+ C:/PROGRA~2/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/pthread_time.h

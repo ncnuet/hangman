@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.0"
+						"string" : "3.1"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Hangman::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Hangman-Debug-83f1a804c0b3e84c8e78.json",
+					"jsonFile" : "target-Hangman-Debug-e27ce870c96e3bfb2d33.json",
 					"name" : "Hangman",
 					"projectIndex" : 0
 				}

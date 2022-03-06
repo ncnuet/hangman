@@ -68,10 +68,161 @@ include CMakeFiles/Hangman.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Hangman.dir/flags.make
 
+CMakeFiles/Hangman.dir/lib/config.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/config.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/config.cpp.obj: ../lib/config.cpp
+CMakeFiles/Hangman.dir/lib/config.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hangman.dir/lib/config.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/config.cpp.obj -MF CMakeFiles\Hangman.dir\lib\config.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\config.cpp.obj -c E:\GameDev\Hangman\lib\config.cpp
+
+CMakeFiles/Hangman.dir/lib/config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/config.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\config.cpp > CMakeFiles\Hangman.dir\lib\config.cpp.i
+
+CMakeFiles/Hangman.dir/lib/config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/config.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\config.cpp -o CMakeFiles\Hangman.dir\lib\config.cpp.s
+
+CMakeFiles/Hangman.dir/lib/console.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/console.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/console.cpp.obj: ../lib/console.cpp
+CMakeFiles/Hangman.dir/lib/console.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Hangman.dir/lib/console.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/console.cpp.obj -MF CMakeFiles\Hangman.dir\lib\console.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\console.cpp.obj -c E:\GameDev\Hangman\lib\console.cpp
+
+CMakeFiles/Hangman.dir/lib/console.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/console.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\console.cpp > CMakeFiles\Hangman.dir\lib\console.cpp.i
+
+CMakeFiles/Hangman.dir/lib/console.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/console.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\console.cpp -o CMakeFiles\Hangman.dir\lib\console.cpp.s
+
+CMakeFiles/Hangman.dir/lib/data.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/data.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/data.cpp.obj: ../lib/data.cpp
+CMakeFiles/Hangman.dir/lib/data.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Hangman.dir/lib/data.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/data.cpp.obj -MF CMakeFiles\Hangman.dir\lib\data.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\data.cpp.obj -c E:\GameDev\Hangman\lib\data.cpp
+
+CMakeFiles/Hangman.dir/lib/data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/data.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\data.cpp > CMakeFiles\Hangman.dir\lib\data.cpp.i
+
+CMakeFiles/Hangman.dir/lib/data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/data.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\data.cpp -o CMakeFiles\Hangman.dir\lib\data.cpp.s
+
+CMakeFiles/Hangman.dir/lib/user.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/user.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/user.cpp.obj: ../lib/user.cpp
+CMakeFiles/Hangman.dir/lib/user.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Hangman.dir/lib/user.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/user.cpp.obj -MF CMakeFiles\Hangman.dir\lib\user.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\user.cpp.obj -c E:\GameDev\Hangman\lib\user.cpp
+
+CMakeFiles/Hangman.dir/lib/user.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/user.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\user.cpp > CMakeFiles\Hangman.dir\lib\user.cpp.i
+
+CMakeFiles/Hangman.dir/lib/user.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/user.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\user.cpp -o CMakeFiles\Hangman.dir\lib\user.cpp.s
+
+CMakeFiles/Hangman.dir/lib/utils.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/utils.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/utils.cpp.obj: ../lib/utils.cpp
+CMakeFiles/Hangman.dir/lib/utils.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Hangman.dir/lib/utils.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/utils.cpp.obj -MF CMakeFiles\Hangman.dir\lib\utils.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\utils.cpp.obj -c E:\GameDev\Hangman\lib\utils.cpp
+
+CMakeFiles/Hangman.dir/lib/utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/utils.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\utils.cpp > CMakeFiles\Hangman.dir\lib\utils.cpp.i
+
+CMakeFiles/Hangman.dir/lib/utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/utils.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\utils.cpp -o CMakeFiles\Hangman.dir\lib\utils.cpp.s
+
+CMakeFiles/Hangman.dir/lib/verify.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/lib/verify.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/lib/verify.cpp.obj: ../lib/verify.cpp
+CMakeFiles/Hangman.dir/lib/verify.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Hangman.dir/lib/verify.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/lib/verify.cpp.obj -MF CMakeFiles\Hangman.dir\lib\verify.cpp.obj.d -o CMakeFiles\Hangman.dir\lib\verify.cpp.obj -c E:\GameDev\Hangman\lib\verify.cpp
+
+CMakeFiles/Hangman.dir/lib/verify.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/lib/verify.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\lib\verify.cpp > CMakeFiles\Hangman.dir\lib\verify.cpp.i
+
+CMakeFiles/Hangman.dir/lib/verify.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/lib/verify.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\lib\verify.cpp -o CMakeFiles\Hangman.dir\lib\verify.cpp.s
+
+CMakeFiles/Hangman.dir/modules/high_score.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/modules/high_score.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/modules/high_score.cpp.obj: ../modules/high_score.cpp
+CMakeFiles/Hangman.dir/modules/high_score.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Hangman.dir/modules/high_score.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/modules/high_score.cpp.obj -MF CMakeFiles\Hangman.dir\modules\high_score.cpp.obj.d -o CMakeFiles\Hangman.dir\modules\high_score.cpp.obj -c E:\GameDev\Hangman\modules\high_score.cpp
+
+CMakeFiles/Hangman.dir/modules/high_score.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/modules/high_score.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\modules\high_score.cpp > CMakeFiles\Hangman.dir\modules\high_score.cpp.i
+
+CMakeFiles/Hangman.dir/modules/high_score.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/modules/high_score.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\modules\high_score.cpp -o CMakeFiles\Hangman.dir\modules\high_score.cpp.s
+
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj: ../modules/manage_user.cpp
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj -MF CMakeFiles\Hangman.dir\modules\manage_user.cpp.obj.d -o CMakeFiles\Hangman.dir\modules\manage_user.cpp.obj -c E:\GameDev\Hangman\modules\manage_user.cpp
+
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/modules/manage_user.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\modules\manage_user.cpp > CMakeFiles\Hangman.dir\modules\manage_user.cpp.i
+
+CMakeFiles/Hangman.dir/modules/manage_user.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/modules/manage_user.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\modules\manage_user.cpp -o CMakeFiles\Hangman.dir\modules\manage_user.cpp.s
+
+CMakeFiles/Hangman.dir/modules/new_word.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/modules/new_word.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/modules/new_word.cpp.obj: ../modules/new_word.cpp
+CMakeFiles/Hangman.dir/modules/new_word.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Hangman.dir/modules/new_word.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/modules/new_word.cpp.obj -MF CMakeFiles\Hangman.dir\modules\new_word.cpp.obj.d -o CMakeFiles\Hangman.dir\modules\new_word.cpp.obj -c E:\GameDev\Hangman\modules\new_word.cpp
+
+CMakeFiles/Hangman.dir/modules/new_word.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/modules/new_word.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\modules\new_word.cpp > CMakeFiles\Hangman.dir\modules\new_word.cpp.i
+
+CMakeFiles/Hangman.dir/modules/new_word.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/modules/new_word.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\modules\new_word.cpp -o CMakeFiles\Hangman.dir\modules\new_word.cpp.s
+
+CMakeFiles/Hangman.dir/modules/play.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/modules/play.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
+CMakeFiles/Hangman.dir/modules/play.cpp.obj: ../modules/play.cpp
+CMakeFiles/Hangman.dir/modules/play.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Hangman.dir/modules/play.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/modules/play.cpp.obj -MF CMakeFiles\Hangman.dir\modules\play.cpp.obj.d -o CMakeFiles\Hangman.dir\modules\play.cpp.obj -c E:\GameDev\Hangman\modules\play.cpp
+
+CMakeFiles/Hangman.dir/modules/play.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hangman.dir/modules/play.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GameDev\Hangman\modules\play.cpp > CMakeFiles\Hangman.dir\modules\play.cpp.i
+
+CMakeFiles/Hangman.dir/modules/play.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hangman.dir/modules/play.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GameDev\Hangman\modules\play.cpp -o CMakeFiles\Hangman.dir\modules\play.cpp.s
+
 CMakeFiles/Hangman.dir/main.cpp.obj: CMakeFiles/Hangman.dir/flags.make
+CMakeFiles/Hangman.dir/main.cpp.obj: CMakeFiles/Hangman.dir/includes_CXX.rsp
 CMakeFiles/Hangman.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/Hangman.dir/main.cpp.obj: CMakeFiles/Hangman.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hangman.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Hangman.dir/main.cpp.obj"
 	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Hangman.dir/main.cpp.obj -MF CMakeFiles\Hangman.dir\main.cpp.obj.d -o CMakeFiles\Hangman.dir\main.cpp.obj -c E:\GameDev\Hangman\main.cpp
 
 CMakeFiles/Hangman.dir/main.cpp.i: cmake_force
@@ -84,17 +235,37 @@ CMakeFiles/Hangman.dir/main.cpp.s: cmake_force
 
 # Object files for target Hangman
 Hangman_OBJECTS = \
+"CMakeFiles/Hangman.dir/lib/config.cpp.obj" \
+"CMakeFiles/Hangman.dir/lib/console.cpp.obj" \
+"CMakeFiles/Hangman.dir/lib/data.cpp.obj" \
+"CMakeFiles/Hangman.dir/lib/user.cpp.obj" \
+"CMakeFiles/Hangman.dir/lib/utils.cpp.obj" \
+"CMakeFiles/Hangman.dir/lib/verify.cpp.obj" \
+"CMakeFiles/Hangman.dir/modules/high_score.cpp.obj" \
+"CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj" \
+"CMakeFiles/Hangman.dir/modules/new_word.cpp.obj" \
+"CMakeFiles/Hangman.dir/modules/play.cpp.obj" \
 "CMakeFiles/Hangman.dir/main.cpp.obj"
 
 # External object files for target Hangman
 Hangman_EXTERNAL_OBJECTS =
 
+Hangman.exe: CMakeFiles/Hangman.dir/lib/config.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/lib/console.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/lib/data.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/lib/user.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/lib/utils.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/lib/verify.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/modules/high_score.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/modules/new_word.cpp.obj
+Hangman.exe: CMakeFiles/Hangman.dir/modules/play.cpp.obj
 Hangman.exe: CMakeFiles/Hangman.dir/main.cpp.obj
 Hangman.exe: CMakeFiles/Hangman.dir/build.make
 Hangman.exe: CMakeFiles/Hangman.dir/linklibs.rsp
 Hangman.exe: CMakeFiles/Hangman.dir/objects1.rsp
 Hangman.exe: CMakeFiles/Hangman.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Hangman.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GameDev\Hangman\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Hangman.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Hangman.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

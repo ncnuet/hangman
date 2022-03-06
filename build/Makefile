@@ -128,6 +128,150 @@ Hangman/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/build
 .PHONY : Hangman/fast
 
+lib/config.obj: lib/config.cpp.obj
+.PHONY : lib/config.obj
+
+# target to build an object file
+lib/config.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/config.cpp.obj
+.PHONY : lib/config.cpp.obj
+
+lib/config.i: lib/config.cpp.i
+.PHONY : lib/config.i
+
+# target to preprocess a source file
+lib/config.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/config.cpp.i
+.PHONY : lib/config.cpp.i
+
+lib/config.s: lib/config.cpp.s
+.PHONY : lib/config.s
+
+# target to generate assembly for a file
+lib/config.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/config.cpp.s
+.PHONY : lib/config.cpp.s
+
+lib/console.obj: lib/console.cpp.obj
+.PHONY : lib/console.obj
+
+# target to build an object file
+lib/console.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/console.cpp.obj
+.PHONY : lib/console.cpp.obj
+
+lib/console.i: lib/console.cpp.i
+.PHONY : lib/console.i
+
+# target to preprocess a source file
+lib/console.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/console.cpp.i
+.PHONY : lib/console.cpp.i
+
+lib/console.s: lib/console.cpp.s
+.PHONY : lib/console.s
+
+# target to generate assembly for a file
+lib/console.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/console.cpp.s
+.PHONY : lib/console.cpp.s
+
+lib/data.obj: lib/data.cpp.obj
+.PHONY : lib/data.obj
+
+# target to build an object file
+lib/data.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/data.cpp.obj
+.PHONY : lib/data.cpp.obj
+
+lib/data.i: lib/data.cpp.i
+.PHONY : lib/data.i
+
+# target to preprocess a source file
+lib/data.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/data.cpp.i
+.PHONY : lib/data.cpp.i
+
+lib/data.s: lib/data.cpp.s
+.PHONY : lib/data.s
+
+# target to generate assembly for a file
+lib/data.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/data.cpp.s
+.PHONY : lib/data.cpp.s
+
+lib/user.obj: lib/user.cpp.obj
+.PHONY : lib/user.obj
+
+# target to build an object file
+lib/user.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/user.cpp.obj
+.PHONY : lib/user.cpp.obj
+
+lib/user.i: lib/user.cpp.i
+.PHONY : lib/user.i
+
+# target to preprocess a source file
+lib/user.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/user.cpp.i
+.PHONY : lib/user.cpp.i
+
+lib/user.s: lib/user.cpp.s
+.PHONY : lib/user.s
+
+# target to generate assembly for a file
+lib/user.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/user.cpp.s
+.PHONY : lib/user.cpp.s
+
+lib/utils.obj: lib/utils.cpp.obj
+.PHONY : lib/utils.obj
+
+# target to build an object file
+lib/utils.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/utils.cpp.obj
+.PHONY : lib/utils.cpp.obj
+
+lib/utils.i: lib/utils.cpp.i
+.PHONY : lib/utils.i
+
+# target to preprocess a source file
+lib/utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/utils.cpp.i
+.PHONY : lib/utils.cpp.i
+
+lib/utils.s: lib/utils.cpp.s
+.PHONY : lib/utils.s
+
+# target to generate assembly for a file
+lib/utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/utils.cpp.s
+.PHONY : lib/utils.cpp.s
+
+lib/verify.obj: lib/verify.cpp.obj
+.PHONY : lib/verify.obj
+
+# target to build an object file
+lib/verify.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/verify.cpp.obj
+.PHONY : lib/verify.cpp.obj
+
+lib/verify.i: lib/verify.cpp.i
+.PHONY : lib/verify.i
+
+# target to preprocess a source file
+lib/verify.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/verify.cpp.i
+.PHONY : lib/verify.cpp.i
+
+lib/verify.s: lib/verify.cpp.s
+.PHONY : lib/verify.s
+
+# target to generate assembly for a file
+lib/verify.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/lib/verify.cpp.s
+.PHONY : lib/verify.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -152,6 +296,102 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+modules/high_score.obj: modules/high_score.cpp.obj
+.PHONY : modules/high_score.obj
+
+# target to build an object file
+modules/high_score.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/high_score.cpp.obj
+.PHONY : modules/high_score.cpp.obj
+
+modules/high_score.i: modules/high_score.cpp.i
+.PHONY : modules/high_score.i
+
+# target to preprocess a source file
+modules/high_score.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/high_score.cpp.i
+.PHONY : modules/high_score.cpp.i
+
+modules/high_score.s: modules/high_score.cpp.s
+.PHONY : modules/high_score.s
+
+# target to generate assembly for a file
+modules/high_score.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/high_score.cpp.s
+.PHONY : modules/high_score.cpp.s
+
+modules/manage_user.obj: modules/manage_user.cpp.obj
+.PHONY : modules/manage_user.obj
+
+# target to build an object file
+modules/manage_user.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/manage_user.cpp.obj
+.PHONY : modules/manage_user.cpp.obj
+
+modules/manage_user.i: modules/manage_user.cpp.i
+.PHONY : modules/manage_user.i
+
+# target to preprocess a source file
+modules/manage_user.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/manage_user.cpp.i
+.PHONY : modules/manage_user.cpp.i
+
+modules/manage_user.s: modules/manage_user.cpp.s
+.PHONY : modules/manage_user.s
+
+# target to generate assembly for a file
+modules/manage_user.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/manage_user.cpp.s
+.PHONY : modules/manage_user.cpp.s
+
+modules/new_word.obj: modules/new_word.cpp.obj
+.PHONY : modules/new_word.obj
+
+# target to build an object file
+modules/new_word.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/new_word.cpp.obj
+.PHONY : modules/new_word.cpp.obj
+
+modules/new_word.i: modules/new_word.cpp.i
+.PHONY : modules/new_word.i
+
+# target to preprocess a source file
+modules/new_word.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/new_word.cpp.i
+.PHONY : modules/new_word.cpp.i
+
+modules/new_word.s: modules/new_word.cpp.s
+.PHONY : modules/new_word.s
+
+# target to generate assembly for a file
+modules/new_word.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/new_word.cpp.s
+.PHONY : modules/new_word.cpp.s
+
+modules/play.obj: modules/play.cpp.obj
+.PHONY : modules/play.obj
+
+# target to build an object file
+modules/play.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/play.cpp.obj
+.PHONY : modules/play.cpp.obj
+
+modules/play.i: modules/play.cpp.i
+.PHONY : modules/play.i
+
+# target to preprocess a source file
+modules/play.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/play.cpp.i
+.PHONY : modules/play.cpp.i
+
+modules/play.s: modules/play.cpp.s
+.PHONY : modules/play.s
+
+# target to generate assembly for a file
+modules/play.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hangman.dir\build.make CMakeFiles/Hangman.dir/modules/play.cpp.s
+.PHONY : modules/play.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,9 +401,39 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Hangman
+	@echo ... lib/config.obj
+	@echo ... lib/config.i
+	@echo ... lib/config.s
+	@echo ... lib/console.obj
+	@echo ... lib/console.i
+	@echo ... lib/console.s
+	@echo ... lib/data.obj
+	@echo ... lib/data.i
+	@echo ... lib/data.s
+	@echo ... lib/user.obj
+	@echo ... lib/user.i
+	@echo ... lib/user.s
+	@echo ... lib/utils.obj
+	@echo ... lib/utils.i
+	@echo ... lib/utils.s
+	@echo ... lib/verify.obj
+	@echo ... lib/verify.i
+	@echo ... lib/verify.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... modules/high_score.obj
+	@echo ... modules/high_score.i
+	@echo ... modules/high_score.s
+	@echo ... modules/manage_user.obj
+	@echo ... modules/manage_user.i
+	@echo ... modules/manage_user.s
+	@echo ... modules/new_word.obj
+	@echo ... modules/new_word.i
+	@echo ... modules/new_word.s
+	@echo ... modules/play.obj
+	@echo ... modules/play.i
+	@echo ... modules/play.s
 .PHONY : help
 
 

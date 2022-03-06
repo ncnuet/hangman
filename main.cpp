@@ -40,11 +40,10 @@ int main()
     int choice = 0;
     const std::vector<std::string> menuList = {
         "1. Play",
-        "2. Get high score",
-        "3. Show new word",
-        "4. Manage users",
-        "0. Exit"
-    };
+        "2. High Score",
+        "3. New Word",
+        "4. Manage Users",
+        "0. Exit"};
 
     do
     {

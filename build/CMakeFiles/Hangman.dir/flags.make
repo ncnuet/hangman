@@ -4,7 +4,7 @@
 # compile CXX with C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/x86_64-w64-mingw32-g++.exe
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = @CMakeFiles/Hangman.dir/includes_CXX.rsp
 
-CXX_FLAGS = -g
+CXX_FLAGS = -g -std=gnu++11
 
