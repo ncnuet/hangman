@@ -47,6 +47,7 @@ int main()
 
     do
     {
+        // Print menu and get user choice
         choice = console::printMenu("Main Menu", menuList);
         switchMenu(choice);
     } while (choice != 0);

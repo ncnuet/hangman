@@ -1,12 +1,11 @@
 # Hangman by NCN
-=========================
 
 _The project is a part of the 'LTNC' series_
-**_Student: DO TUAN NGHIA_**
+**_Student: `DO TUAN NGHIA`_**
 
 ## How to run
 
-- Run directly Hangman.exe in build/Hangman
+- Run directly Hangman.exe in build/
 
 ```bash
     $ cd build

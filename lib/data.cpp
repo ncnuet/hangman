@@ -26,6 +26,7 @@ std::string toLowerString(std::string str)
     return result;
 }
 
+// Parse the text data into the struct data
 word_data parse(std::string text)
 {
     word_data data;
@@ -48,6 +49,7 @@ word_data parse(std::string text)
     return data;
 }
 
+// Read random a list of words from file
 word_data *data::readWordList(int numWords)
 {
     std::fstream file;
@@ -77,6 +79,7 @@ word_data *data::readWordList(int numWords)
     return wordListReturn;
 }
 
+// Check if the word is in the new word list
 bool isHasNewWord(std::string word)
 {
     std::fstream file;
@@ -96,6 +99,7 @@ bool isHasNewWord(std::string word)
     return false;
 }
 
+// Add a word to the new word list
 void data::addNewWord(word_data new_word)
 {
     if (!isHasNewWord(new_word.word))
@@ -107,6 +111,7 @@ void data::addNewWord(word_data new_word)
     }
 }
 
+// Get the new word list
 std::vector<word_data> data::getNewWords()
 {
     std::fstream file;

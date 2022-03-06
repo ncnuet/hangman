@@ -6,6 +6,7 @@
 #include <vector>
 #include <iterator>
 
+// Add white space to the left of the string in order to fit column width
 std::string addWhiteSpace(int width, std::string text)
 {
     int textLength = text.length();
@@ -16,6 +17,7 @@ std::string addWhiteSpace(int width, std::string text)
     return result;
 }
 
+// Put a string in the center of the line
 void console::printTextCenter(std::string text)
 {
     int textLength = text.length();
@@ -27,6 +29,7 @@ void console::printTextCenter(std::string text)
     std::cout << std::endl;
 }
 
+// Print the separator line
 void console::printSeparateLine(char c)
 {
     for (int i = 0; i < MAX_WIDTH; i++)
@@ -34,6 +37,7 @@ void console::printSeparateLine(char c)
     std::cout << std::endl;
 }
 
+// Print text as columns
 void console::printTextJustify(std::string text[], int textNum)
 {
     int spacePerCol = MAX_WIDTH / textNum;
@@ -64,12 +68,14 @@ void console::printLogo()
     console::printTextCenter("|__|__||__|__||__|__||___,_||___|___||__|__||__|__|");
 }
 
+// Print more white lines
 void console::printSpaceLines(int lines)
 {
     for (int i = 0; i < lines; i++)
         std::cout << std::endl;
 }
 
+// Print a menu and get user choice
 int console::printMenu(std::string title, const std::vector<std::string> text)
 {
     int textNum = text.size();

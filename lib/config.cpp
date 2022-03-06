@@ -3,6 +3,7 @@
 #include <fstream>
 #include <vector>
 
+// Save game configs to file
 void config::saveConfigs(std::vector<std::string> configs)
 {
     std::ofstream file;
@@ -17,6 +18,7 @@ void config::saveConfigs(std::vector<std::string> configs)
     file.close();
 }
 
+// Set default user when playing game
 void config::setCurrentUser(std::string uid)
 {
     std::ifstream ifile;

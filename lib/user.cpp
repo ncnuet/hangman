@@ -63,6 +63,7 @@ user *user::loadFromFile(std::string filename)
     return new user(uid, name, highScore, resolvedWordCount, totalPlayedTime);
 }
 
+// Get all user from file
 std::vector<user> user::readAllUser()
 {
     std::vector<user> users;
